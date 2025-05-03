@@ -17,3 +17,10 @@ projeto em R que visa análise estatisticas econômicas do Brasil ao longo dos a
 - **ggplot2** para visualização dos dados
 - **tidyverse** para manipulação dos dados
 
+## gráfico:
+![gráfico com indicadores](dados_economicos_BR.png)
+
+## como executar o código:
+
+```bash
+git clone https://https://github.com/LIBRAE762/analise-economica-brasileira.git
