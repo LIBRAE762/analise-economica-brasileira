@@ -22,5 +22,7 @@ projeto em R que visa análise estatisticas econômicas do Brasil ao longo dos a
 
 ## como executar o código:
 
+clone este código:
+
 ```bash
 git clone https://https://github.com/LIBRAE762/analise-economica-brasileira.git
